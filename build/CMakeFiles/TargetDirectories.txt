@@ -1,0 +1,9 @@
+D:/repositorii/battle-top/build/CMakeFiles/battle-top.dir
+D:/repositorii/battle-top/build/CMakeFiles/edit_cache.dir
+D:/repositorii/battle-top/build/CMakeFiles/rebuild_cache.dir
+D:/repositorii/battle-top/build/external/glfw/CMakeFiles/edit_cache.dir
+D:/repositorii/battle-top/build/external/glfw/CMakeFiles/rebuild_cache.dir
+D:/repositorii/battle-top/build/external/glfw/src/CMakeFiles/glfw.dir
+D:/repositorii/battle-top/build/external/glfw/src/CMakeFiles/update_mappings.dir
+D:/repositorii/battle-top/build/external/glfw/src/CMakeFiles/edit_cache.dir
+D:/repositorii/battle-top/build/external/glfw/src/CMakeFiles/rebuild_cache.dir
